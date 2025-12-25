@@ -21,7 +21,7 @@
         - less-sensitive to the type of fake images (GAN/diffusion-based)
 
 ### Notice
-- I removed all image dataset, because of the capacity issues
+- We only remain very samll amount of dataset because of capacity.
 - The dataset is from kaggle. 
     - [Thread for real faces dataset] (https://www.kaggle.com/c/deepfake-detection-challenge/discussion/122786)
     - [1 Million Fake Faces] (https://www.kaggle.com/c/deepfake-detection-challenge/discussion/121173)
